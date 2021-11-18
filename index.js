@@ -2,6 +2,8 @@
 
  console.log('test git new branch')
 
- console.log('Test for branch MASTER')
- 
- 
+ const age=20
+
+ if (age>=18) {
+     console.log('Вы совершеннолетний')
+ } else console.log('Вы несовершеннолетний')
